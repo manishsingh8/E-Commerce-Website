@@ -15,6 +15,7 @@ const Baner = () => {
              backspeed=(120)
                /> */}
           </div>
+          <button className="bg-black text-white p-2 rounded">Get Started</button>
         </div>
       </div>
     </>
