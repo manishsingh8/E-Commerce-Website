@@ -5,6 +5,7 @@ import Baner from './components/Baner';
 import Expert from './components/Expert';
 import NewsLater from './components/NewsLater';
 import Plans from './components/Plans';
+import Footer from './components/Footer';
 function App() {
   return (
     <>
@@ -13,6 +14,7 @@ function App() {
       <Expert />
       <NewsLater />
       <Plans />
+      <Footer />
     </>
   );
 }
